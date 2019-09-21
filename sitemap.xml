@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://czcode.czcx.tk/lib/</loc>
+    
+    <lastmod>2019-09-21T08:19:04.163Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://czcode.czcx.tk/tags/</loc>
+    
+    <lastmod>2019-09-21T08:15:39.712Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://czcode.czcx.tk/Notice-1-16/</loc>
     
     <lastmod>2019-09-21T06:53:18.917Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://czcode.czcx.tk/download/</loc>
     
     <lastmod>2019-09-21T03:51:00.414Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://czcode.czcx.tk/tags/</loc>
-    
-    <lastmod>2019-09-21T03:43:51.296Z</lastmod>
     
   </url>
   

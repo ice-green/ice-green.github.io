@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://czcode.czcx.tk/lib/</loc>
+    <lastmod>2019-09-21</lastmod>
+  </url>  <url>
+    <loc>http://czcode.czcx.tk/tags/</loc>
+    <lastmod>2019-09-21</lastmod>
+  </url>  <url>
     <loc>http://czcode.czcx.tk/Notice-1-16/</loc>
     <lastmod>2019-09-21</lastmod>
   </url>  <url>
     <loc>http://czcode.czcx.tk/download/</loc>
-    <lastmod>2019-09-21</lastmod>
-  </url>  <url>
-    <loc>http://czcode.czcx.tk/tags/</loc>
     <lastmod>2019-09-21</lastmod>
   </url>  <url>
     <loc>http://czcode.czcx.tk/CZ-Code-v1-14-is-officially-released/</loc>
