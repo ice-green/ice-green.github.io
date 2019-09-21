@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://czcode.tk/download/</loc>
+    
+    <lastmod>2019-09-21T03:51:00.414Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://czcode.tk/tags/</loc>
     
     <lastmod>2019-09-21T03:43:51.296Z</lastmod>
